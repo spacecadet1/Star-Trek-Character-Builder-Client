@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<XML_DIZ_INFO>
+<MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>1.15</MASTER_PAD_VERSION>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+</MASTER_PAD_VERSION_INFO>
+<Company_Info>
+        <Company_Name>Space Cadet</Company_Name>
+        <Address_1 />
+        <Address_2 />
+        <City_Town />
+        <State_Province />
+        <Zip_Postal_Code />
+        <Country>USA</Country>
+        <Company_WebSite_URL />
+<Contact_Info>
+        <Author_First_Name>Tuan</Author_First_Name>
+        <Author_Last_Name>Amith</Author_Last_Name>
+        <Author_Email>mfamith@msn.com</Author_Email>
+        <Contact_First_Name />
+        <Contact_Last_Name />
+        <Contact_Email />
+    </Contact_Info>
+<Support_Info>
+        <Sales_Email />
+        <Support_Email />
+        <General_Email />
+        <Sales_Phone />
+        <Support_Phone />
+        <General_Phone />
+        <Fax_Phone />
+    </Support_Info>
+</Company_Info>
+<Program_Info>
+        <Program_Name>Star Trek Character Builder</Program_Name>
+        <Program_Version>3.5</Program_Version>
+        <Program_Release_Month>1</Program_Release_Month>
+        <Program_Release_Day>20</Program_Release_Day>
+        <Program_Release_Year>2004</Program_Release_Year>
+        <Program_Cost_Dollars>0</Program_Cost_Dollars>
+        <Program_Cost_Other_Code />
+        <Program_Cost_Other />
+        <Program_Type>Freeware</Program_Type>
+        <Program_Release_Status>New Release</Program_Release_Status>
+        <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+        <Program_OS_Support>Win95,Win98,WinME,WinNT 4.x,WinXP,Windows2000</Program_OS_Support>
+        <Program_Language>English</Program_Language>
+<File_Info>
+        <Filename_Versioned />
+        <Filename_Previous />
+        <Filename_Generic />
+        <Filename_Long />
+        <File_Size_Bytes />
+        <File_Size_K />
+        <File_Size_MB>1.91</File_Size_MB>
+    </File_Info>
+<Expire_Info>
+        <Has_Expire_Info>N</Has_Expire_Info>
+        <Expire_Count />
+        <Expire_Based_On>Days</Expire_Based_On>
+        <Expire_Other_Info />
+        <Expire_Month />
+        <Expire_Day />
+        <Expire_Year />
+    </Expire_Info>
+        <Program_Change_Info />
+        <Program_Specific_Category>Audio</Program_Specific_Category>
+        <Program_Categories />
+        <Program_System_Requirements />
+        <Includes_JAVA_VM>N</Includes_JAVA_VM>
+        <Includes_VB_Runtime>N</Includes_VB_Runtime>
+        <Includes_DirectX>N</Includes_DirectX>
+</Program_Info>
+<Program_Descriptions>
+<English>
+        <Keywords>Role Playing Game, Roleplaying Game, RPG, Star Trek, Decipher, Character Generator, Character Builder, Tools, Gaming</Keywords>
+        <Char_Desc_45 />
+        <Char_Desc_80 />
+        <Char_Desc_250 />
+        <Char_Desc_450>Star Trek Character Builder simplifies the process of making a character for the Star Trek RPG line from Decipher,Inc (Coda system). Features include an easy-to-use interface, html character sheet, advancements (w/editor), the inclusion of custom data (w/ editor), installer and unistaller.</Char_Desc_450>
+        <Char_Desc_2000 />
+</English>
+</Program_Descriptions>
+<Web_Info>
+<Application_URLs>
+        <Application_Info_URL />
+        <Application_Order_URL />
+        <Application_Screenshot_URL />
+        <Application_Icon_URL />
+        <Application_XML_File_URL />
+    </Application_URLs>
+<Download_URLs>
+        <Primary_Download_URL />
+        <Secondary_Download_URL />
+        <Additional_Download_URL_1 />
+        <Additional_Download_URL_2 />
+    </Download_URLs>
+</Web_Info>
+<Permissions>
+        <Distribution_Permissions />
+        <EULA>Grant of Licence
+
+I, Licencer, grants you the Licencee, a licence to use this software in accordance to terms contained with this licence.
+
+Restrictions.  You may not: (i) charge others or ask any donations; (ii) modify or translate the software; (iii) reverse engineer, decompile, or disassemble the software, except to the extent this restriction is expressly prohibited by applicable law; (iv) create derivative works based on the software; (v) merge the software with another product; (vi) copy the software; or (vii) remove or obscure any proprietary rights notices or labels on the software.
+
+Disclaimiers
+
+This software and the accompanying files are supplied &quot;As is&quot;, without any warranty of any kind, either expressed or implied. In no event shall the author be liable for any damages whatsoever including direct, indirect,incidental, consequential, loss of business profits or special damages from the use of this software. 
+
+I am not affiliated with Decipher, Inc. or Paramount Pictures. For more information on Star Trek, go to www.startrek.com or for more information on Decipher,Inc. products and games, go to www.decipher.com.
+
+Star Trek and related are owned by Paramount Pictures. All rights reserved. This is intended for promotion of the Star Trek RPG line by Decipher, Inc. No infringement is intended.</EULA>
+</Permissions>
+<ASP>
+    <ASP_FORM>Y</ASP_FORM>
+    <ASP_Member>N</ASP_Member>
+    <ASP_Member_Number />
+</ASP>
+</XML_DIZ_INFO>

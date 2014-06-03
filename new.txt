@@ -1,0 +1,41 @@
+What's new
+
+Users can now add new species and professional packages to the program
+
+"[custom]" has been added to the choices for personal packages. This option allows the user to select any skill and edges available
+
+data editor accompanies the character generator to support the custom features
+
+
+Adding Custom Data
+
+This edition includes a feature where users can add a new species or professional package into their program. The Character Builder uses two text files, "aliens.txt" and "professions.txt". In each file, when you add a new data, each entry is encased within "<" and ">". This lets the program differentiate between different data in the files. Ex.
+
+<
+PACKAGE: Cannon Fodder
+PROFESSION: Soldier
+SKILL: Armed Combat (choose) +1
+SKILL: Craft:Carpentery +1
+SKILL: Demolitions +1
+
+SKILL: Vehicle Operation +2
+SKILL: Tactics +4
+EDGE: Defensive Attack
+EDGE: Famous Event
+EDGE: Rapid Healing
+>
+
+As shown above each skill, edge, flaw, name, etc.  is "tagged" with their prospective identification in caps followed by a colon. This lets the program know what kind of data that is being entered into the program. Also, for new data to be included, the data must be available before the program begins. 
+
+To create new data, start the data editor (For this example we will create a professional package, the same steps can be applied to species. Also note that you have to refer to page 98 in the Player's Guide for guidelines on building a professional package).
+
+ 
+
+1. Type in the name of this package. (Ex. Red Shirt)
+2. Select the profession for which this package belongs (Ex. Starship Security)
+3. Add some skills to the package and assign a level. You may also assign a speciality or have the user denote their own speciality.   (Ex. Armed Combat, Computer Use (Programming), etc)
+4. Add edges (of flaws if creating a species) (Ex. Commendation, Fame)
+
+N.B. In steps 3 and 4 you have the option to type in a new skill, flaw or edge in the combo box. 
+
+To delete any data, open the text file with your favorite text editor and highlight and delete (including the "<" and ">").

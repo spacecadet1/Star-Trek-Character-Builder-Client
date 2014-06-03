@@ -1,0 +1,22 @@
+<
+PACKAGE: Red Shirt
+PROFESSION: Starship Security
+SKILL: Armed Combat (choose) +1
+SKILL: Computer Use +1
+SKILL: Entertain:Drama +1
+SKILL: Ranged Combat:Energy (Phaser Rifles) +2
+EDGE: Commendation
+EDGE: Fame
+>
+<
+PACKAGE: Cannon Fodder
+PROFESSION: Soldier
+SKILL: Armed Combat (choose) +1
+SKILL: Craft:Carpentery +1
+SKILL: Demolitions +1
+SKILL: Vehicle Operation +2
+SKILL: Tactics +4
+EDGE: Defensive Attack
+EDGE: Famous Event
+EDGE: Rapid Healing
+>

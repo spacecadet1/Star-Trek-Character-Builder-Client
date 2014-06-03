@@ -1,0 +1,24 @@
+<
+SPECIES: INXS
+STR: 6
+AGL: 6
+COUR: 12
+SKILL: Conceal +2
+SKILL: Demolitions +4
+EDGE: Alert
+EDGE: Blends In
+FLAW: Bloodlust
+FLAW: Coward
+>
+<
+SPECIES: GNR
+SKILL: Demolitions +4
+EDGE: Blends In
+FLAW: Coward
+>
+<
+SPECIES: Newbie
+STR: 12
+SKILL: Craft:* +1
+SKILL: Computer Use (choose) +1
+>
